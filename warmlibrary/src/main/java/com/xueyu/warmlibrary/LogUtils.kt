@@ -7,6 +7,6 @@ import android.util.Log
  */
 object LogUtils{
     fun a(){
-        Log.e("huahua","asdad")
+        Log.e("huahua","测试")
     }
 }

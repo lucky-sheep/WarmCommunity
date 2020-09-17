@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        tv_main.setOnClickListener {
+        tv_main1.setOnClickListener {
             LogUtils.a()
         }
     }
